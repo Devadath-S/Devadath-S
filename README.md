@@ -2,7 +2,7 @@
 
 <h2>🖥️🛠️ Embedded Projects:</h2>
 
-- <b>FILL</b>
+- <b>[Dual Axis Solar Tracker](https://github.com/Devadath-S/DAST) </b>
 
 <h2> 🤳 Connect with me:</h2>
 
