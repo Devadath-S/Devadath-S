@@ -1,5 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Devadath! <br/><a href="https://github.com/Devadath-S">Embedded Programmer</a>, <a href="https://www.linkedin.com/in/devadath-s/">Firmware Engineer</a></h1>
 
+<h2>🖥️🛠️ Embedded Projects:</h2>
+
+- <b>FILL</b>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Devadath S | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 <!--
 **Devadath-S/Devadath-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
