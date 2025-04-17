@@ -3,6 +3,7 @@
 <h2>🖥️🛠️ Embedded Projects:</h2>
 
 - <b>[Dual Axis Solar Tracker](https://github.com/Devadath-S/DAST) </b>
+- <b>[Safe-Stride](https://github.com/Devadath-S/Safe-Stride) </b>
 
 <h2> 🤳 Connect with me:</h2>
 
