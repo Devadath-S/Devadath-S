@@ -1,9 +1,15 @@
 <h1>Hi, I'm Devadath! <br/><a href="https://github.com/Devadath-S">Embedded Programmer</a>, <a href="https://www.linkedin.com/in/devadath-s/">Firmware Engineer</a></h1>
 
-<h2>🖥️🛠️ Embedded Projects:</h2>
+<h2>💡 Embedded Projects:</h2>
 
 - <b>[Dual Axis Solar Tracker](https://github.com/Devadath-S/DAST) </b>
 - <b>[Safe-Stride](https://github.com/Devadath-S/Safe-Stride) </b>
+
+
+<h2>🖳 System Programming Projects:</h2>
+
+- <b>[CHIP-8 Emulator](https://github.com/Devadath-S/Chip-8-Emulator) </b>
+
 
 <h2> 🤳 Connect with me:</h2>
 
