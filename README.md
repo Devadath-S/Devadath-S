@@ -9,13 +9,6 @@
 <h2>🖳 System Programming Projects:</h2>
 
 - <b>[CHIP-8 Emulator](https://github.com/Devadath-S/Chip-8-Emulator) </b>
-
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Devadath S | LinkedIn" width="22px" src="https://i.sstatic.net/gVE0j.png" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/joshmadakor
 <!--
 **Devadath-S/Devadath-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
